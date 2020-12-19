@@ -1,0 +1,19 @@
+{
+    "csharpfixformat.style.braces.onSameLine": false,
+    "editor.fontSize": 18,
+    "editor.fontFamily": "Cascadia Code, Monaco, Consolas",
+    "telemetry.enableTelemetry": false,
+    "terminal.integrated.fontFamily": "Cascadia Mono, Monaco, Consolas",
+    "terminal.integrated.fontSize": 18,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "vscode-great-icons",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+    "powershell.integratedConsole.showOnStartup": false,
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Box UK (rainglow)",
+    "csharpfixformat.style.spaces.beforeParenthesis": false,
+    "csharpfixformat.style.spaces.afterParenthesis": false,
+    "[csharp]": {
+        "editor.defaultFormatter": "Leopotam.csharpfixformat"
+    }
+}
