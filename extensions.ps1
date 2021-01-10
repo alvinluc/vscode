@@ -8,8 +8,9 @@ code --install-extension "ms-vscode-remote.vscode-remote-extensionpack"
 code --install-extension "ms-vscode.powershell"
 code --install-extension "ms-azuretools.vscode-docker"
 
-code --install-extension "daylerees.rainglow"
-code --install-extension "emmanuelbeziat.vscode-great-icons"
+code --install-extension "bceskavich.theme-dracula-at-night"
+code --install-extension "davidmart.theme-jsfiddle-like-syntax-vscode"
+code --install-extension "file-icons.file-icons"
 code --install-extension "danielgjackson.auto-dark-mode-windows"
 
 code --install-extension "jchannon.csharpextensions"

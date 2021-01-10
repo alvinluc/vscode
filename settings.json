@@ -5,13 +5,14 @@
     "terminal.integrated.fontFamily": "Cascadia Mono, Consolas",
     "terminal.integrated.fontSize": 18,
     "workbench.startupEditor": "newUntitledFile",
-    "workbench.iconTheme": "vscode-great-icons",
+    "workbench.iconTheme": "file-icons",
     "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
     "powershell.integratedConsole.showOnStartup": false,
     "editor.minimap.enabled": false,
-    "workbench.preferredDarkColorTheme": "Dare Contrast (rainglow)",
-    "workbench.preferredLightColorTheme": "Dare Light (rainglow)",
     "window.autoDetectColorScheme": true,
+    "workbench.preferredDarkColorTheme": "Dracula At Night",
+    "workbench.preferredLightColorTheme": "JSFiddle-like-syntax-vscode",
+    "workbench.colorTheme": "Dracula At Night",
     "mssql.connections": [
         {
             "server": "(local)",
