@@ -1,13 +1,28 @@
 {
-    "editor.fontSize": 16,
+    "editor.fontSize": 18,
     "editor.fontFamily": "Cascadia Code, Consolas",
     "telemetry.enableTelemetry": false,
     "terminal.integrated.fontFamily": "Cascadia Mono, Consolas",
-    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontSize": 18,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.iconTheme": "vscode-great-icons",
     "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
     "powershell.integratedConsole.showOnStartup": false,
     "editor.minimap.enabled": false,
-    "workbench.colorTheme": "Isotope (rainglow)"
+    "workbench.preferredDarkColorTheme": "Dare Contrast (rainglow)",
+    "workbench.preferredLightColorTheme": "Dare Light (rainglow)",
+    "window.autoDetectColorScheme": true,
+    "mssql.connections": [
+        {
+            "server": "(local)",
+            "database": "",
+            "authenticationType": "SqlLogin",
+            "user": "sa",
+            "password": "",
+            "emptyPasswordInput": false,
+            "savePassword": true,
+            "profileName": "Docker",
+            "azureAccountToken": ""
+        }
+    ]
 }

@@ -9,6 +9,7 @@ code --install-extension "ms-azuretools.vscode-docker"
 
 code --install-extension "daylerees.rainglow"
 code --install-extension "emmanuelbeziat.vscode-great-icons"
+code --install-extension "danielgjackson.auto-dark-mode-windows"
 
 code --install-extension "jchannon.csharpextensions"
 code --install-extension "leopotam.csharpfixformat"
