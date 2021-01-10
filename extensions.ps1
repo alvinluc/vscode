@@ -1,5 +1,6 @@
 Write-Host " "
-Write-Host "Installing vscode extensions"
+Write-Host "**Installing Visual Studio code extensions**"
+Write-Host " "
 
 code --install-extension "ms-dotnettools.csharp"
 code --install-extension "ms-mssql.mssql"
@@ -20,5 +21,8 @@ code --install-extension "heaths.vscode-guid"
 code --install-extension "davidanson.vscode-markdownlint"
 code --install-extension "shd101wyy.markdown-preview-enhanced"
 code --install-extension "redhat.vscode-yaml"
+
+
 Write-Host " "
-Write-Host "Finished!"
+Write-Host "**Extensions installed.**"
+Write-Host " "
