@@ -7,6 +7,7 @@ code --install-extension "ms-mssql.mssql"
 code --install-extension "ms-vscode-remote.vscode-remote-extensionpack"
 code --install-extension "ms-vscode.powershell"
 code --install-extension "ms-azuretools.vscode-docker"
+code --install-extension "mechatroner.rainbow-csv"
 
 code --install-extension "bceskavich.theme-dracula-at-night"
 code --install-extension "davidmart.theme-jsfiddle-like-syntax-vscode"
